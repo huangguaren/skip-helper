@@ -1,4 +1,4 @@
-# SkipHelper（跳过助手）
+﻿# SkipHelper（跳过助手）
 
 基于 Android 无障碍服务的开屏广告 / 弹窗自动跳过工具。规则格式对齐「李跳跳」，
 同时支持坐标盲点、小程序容器识别、按应用白名单、市场规则包一键导入。
@@ -61,5 +61,7 @@ docs/                   原版 APK 解包报告、载荷分析脚本、无障碍
 
 ## 许可
 
-代码未声明开源许可，版权归作者。`assets/AllRules.json` 与 `rules/*.json` 派生自社区规则库
-（AGPL-3.0），沿用其许可要求。
+- **代码**（Kotlin / Gradle / 脚本）：[MIT](LICENSE)，Copyright (c) 2026 huangguaren。
+- **规则数据**（`app/src/main/assets/AllRules.json`、`rules/market-rules-2026.11*.json`）：
+  派生自社区规则库 [Fatchick233/LiTiaotiao-Custom-Rules](https://github.com/Fatchick233/LiTiaotiao-Custom-Rules)
+  （AGPL-3.0），沿用 AGPL-3.0。溯源与影响说明见 [`rules/NOTICE.md`](rules/NOTICE.md)。
