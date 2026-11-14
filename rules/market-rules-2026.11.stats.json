@@ -1,0 +1,3422 @@
+{
+  "summary": {
+    "generated_at": "2026-11-12",
+    "source_commit": "c30d28d",
+    "apps": 337,
+    "popup_rules": 854,
+    "apps_from_allrules": 324,
+    "apps_with_readme": 328,
+    "apps_from_template": 6,
+    "community_apps_before_template": 331,
+    "top_apps_covered": [
+      "微信",
+      "QQ",
+      "淘宝",
+      "天猫",
+      "京东",
+      "拼多多",
+      "抖音",
+      "快手",
+      "快手极速版",
+      "小红书",
+      "微博",
+      "哔哩哔哩",
+      "知乎",
+      "美团",
+      "饿了么",
+      "高德地图",
+      "百度地图",
+      "百度网盘",
+      "网易云音乐",
+      "QQ音乐",
+      "优酷",
+      "爱奇艺",
+      "腾讯视频",
+      "芒果TV",
+      "闲鱼",
+      "得物",
+      "番茄免费小说",
+      "今日头条",
+      "起点读书",
+      "UC浏览器",
+      "腾讯新闻",
+      "搜狐新闻",
+      "钉钉",
+      "企业微信"
+    ],
+    "top_apps_template_filled": [
+      "大众点评",
+      "携程旅行",
+      "铁路12306",
+      "凤凰新闻",
+      "趣头条",
+      "TikTok"
+    ],
+    "category_hits": {
+      "其他": 381,
+      "通知": 122,
+      "更新": 89,
+      "青少年": 66,
+      "广告位": 62,
+      "活动": 30,
+      "开屏": 18,
+      "评分": 4
+    }
+  },
+  "apps": [
+    {
+      "hash": -2145732654,
+      "package": "com.cctv4g.cctvmobiletv",
+      "label": "CCTV手机电视",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2119218027,
+      "package": "cn.xiaochuankeji.tieba",
+      "label": "最右",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2116363580,
+      "package": "com.chinaso.so",
+      "label": "花漾搜索",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2114933808,
+      "package": "com.feicui.vdhelper",
+      "label": "翡翠视频",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2096096381,
+      "package": "im.xingzhe",
+      "label": "行者",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2092209424,
+      "package": "com.baidu.homework",
+      "label": "作业帮",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2086095549,
+      "package": "com.quark.browser",
+      "label": "夸克浏览器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2069018544,
+      "package": "com.hpbr.bosszhipin",
+      "label": "BOSS直聘",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2061428528,
+      "package": "com.gemini.cloud.client",
+      "label": "双子星云手机",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2028968188,
+      "package": "com.hungrypanda.waimai",
+      "label": "熊猫外卖",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2003752385,
+      "package": "com.wepie.weplay",
+      "label": "会玩",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -2002547408,
+      "package": "com.dongqiudi.news",
+      "label": "懂球帝",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1991835185,
+      "package": "com.njh.biubiu",
+      "label": "biubiu加速器",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1979924692,
+      "package": "com.lp.lightawake",
+      "label": "轻醒",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1979578047,
+      "package": "com.tencent.transfer",
+      "label": "换机助手",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1969724936,
+      "package": "com.tplink.smbcloud",
+      "label": "TP-LINK商云",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1960346768,
+      "package": "com.jojoread.huiben",
+      "label": "叫叫绘本",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1943382780,
+      "package": "com.wuba.zhuanzhuan",
+      "label": "转转",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1930986565,
+      "package": "com.baidu.student",
+      "label": "不挂科",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1930444755,
+      "package": "com.alibaba.aliexpresshd",
+      "label": "Aliexpress/全球速卖通",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1902185409,
+      "package": "com.daimajia.gold",
+      "label": "稀土掘金",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1898417322,
+      "package": "com.xiaomi.vipaccount",
+      "label": "小米社区",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1895428968,
+      "package": "com.yingyeting.shouji",
+      "label": "网上营业厅",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1892077856,
+      "package": "com.sgcc.evs.echarge",
+      "label": "e充电",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1877153607,
+      "package": "com.boc.gmsa",
+      "label": "中银e企赢",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1869705199,
+      "package": "com.comic.cartoon36",
+      "label": "36漫画",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1865688240,
+      "package": "fm.qingting.qtradio",
+      "label": "蜻蜓FM",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1864872766,
+      "package": "com.qiyi.video",
+      "label": "爱奇艺",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1854575849,
+      "package": "com.alicloud.databox",
+      "label": "阿里云盘",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1846921724,
+      "package": "com.renren.mobile.android",
+      "label": "人人直播",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1839413884,
+      "package": "com.jdd.motorfans",
+      "label": "摩托范",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1835777899,
+      "package": "com.immomo.vchat",
+      "label": "赫兹",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1830100133,
+      "package": "com.cctv.yangshipin.app.androidp",
+      "label": "央视频",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1781124388,
+      "package": "com.yiche.autoeasy",
+      "label": "易车",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1769871671,
+      "package": "com.jifen.qukan",
+      "label": "趣头条",
+      "rules": 9,
+      "sources": [
+        "template"
+      ]
+    },
+    {
+      "hash": -1731486278,
+      "package": "com.android.bankabc",
+      "label": "中国农业银行",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1730999113,
+      "package": "com.mm.android.lc",
+      "label": "乐橙",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1717626045,
+      "package": "com.nowcasting.activity",
+      "label": "彩云天气",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1709882794,
+      "package": "com.sankuai.meituan",
+      "label": "美团",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1703768290,
+      "package": "com.xunlei.tdlive",
+      "label": "迅雷直播",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1692253156,
+      "package": "com.youku.phone",
+      "label": "优酷视频",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1670877294,
+      "package": "com.douban.frodo",
+      "label": "豆瓣",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1667428321,
+      "package": "air.tv.douyu.android",
+      "label": "斗鱼",
+      "rules": 3,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": -1665025453,
+      "package": "com.miui.packageinstaller",
+      "label": "MIUI 应用包管理组件",
+      "rules": 8,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1657078324,
+      "package": "com.baidu.doctorbox",
+      "label": "有医笔记",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1652150487,
+      "package": "com.ss.android.ugc.live",
+      "label": "抖音火山版",
+      "rules": 8,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1637701853,
+      "package": "com.huawei.appmarket",
+      "label": "华为应用市场",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1635328017,
+      "package": "com.tencent.qqmusic",
+      "label": "QQ音乐",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1623425929,
+      "package": "com.cnspeedtest.globalspeed",
+      "label": "全球网测",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1606001344,
+      "package": "com.luna.music",
+      "label": "汽水音乐",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1567553486,
+      "package": "com.lemon.lv",
+      "label": "剪映",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1556709909,
+      "package": "com.hexin.plat.android",
+      "label": "同花顺",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1544055932,
+      "package": "com.qq.ac.android",
+      "label": "腾讯动漫",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1534473421,
+      "package": "com.zjwh.android_wh_physicalfitness",
+      "label": "运动世界校园",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1531462240,
+      "package": "com.duoduo.cailing",
+      "label": "彩铃多多",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1527971724,
+      "package": "com.alibaba.ailabs.tg",
+      "label": "天猫精灵",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1520738335,
+      "package": "com.miui.gallery",
+      "label": "MIUI 相册",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1518567568,
+      "package": "com.tencent.androidqqmail",
+      "label": "QQ邮箱",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1513662963,
+      "package": "com.qp333.car",
+      "label": "汽修宝",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1502821745,
+      "package": "com.jingyao.easybike",
+      "label": "哈啰",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1500338227,
+      "package": "www.imxiaoyu.com.musiceditor",
+      "label": "音乐剪辑大师",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1491765371,
+      "package": "com.kugou.android.lite",
+      "label": "酷狗概念版",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1488821919,
+      "package": "com.xiachufang",
+      "label": "下厨房",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1478231696,
+      "package": "com.yishouapp.fumi",
+      "label": "一手服装批发",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1459422248,
+      "package": "com.dianping.v1",
+      "label": "大众点评",
+      "rules": 9,
+      "sources": [
+        "template"
+      ]
+    },
+    {
+      "hash": -1447059102,
+      "package": "com.izaodao.gps",
+      "label": "五十音图",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1414602254,
+      "package": "com.ss.android.ugc.aweme.lite",
+      "label": "抖音极速版",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1367717479,
+      "package": "com.trantor.genesis",
+      "label": "维迈通多多",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1357050264,
+      "package": "cmb.pb",
+      "label": "招商银行",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1346391036,
+      "package": "com.mihoyo.hyperion",
+      "label": "米游社",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1284596293,
+      "package": "com.MobileTicket",
+      "label": "铁路12306",
+      "rules": 9,
+      "sources": [
+        "template"
+      ]
+    },
+    {
+      "hash": -1255577144,
+      "package": "com.duolingo",
+      "label": "多邻国",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1239952740,
+      "package": "com.miui.systemAdSolution",
+      "label": "MIUI 智能服务",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1220851267,
+      "package": "com.duowan.mobile",
+      "label": "YY",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1215205363,
+      "package": "com.yixia.videoeditor",
+      "label": "秒拍",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1206397310,
+      "package": "com.dmzj.manhua",
+      "label": "动漫之家",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1185078240,
+      "package": "com.ss.android.article.search",
+      "label": "有柿",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1163495604,
+      "package": "com.zhubajie.client",
+      "label": "猪八戒",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1161240227,
+      "package": "com.jd.jdhealth",
+      "label": "京东健康",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1161217159,
+      "package": "com.banban.kuxiu",
+      "label": "酷秀LIVE",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1109425407,
+      "package": "com.abk.fitter",
+      "label": "安帮客师傅端",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1079643320,
+      "package": "me.ele",
+      "label": "饿了么",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1065232334,
+      "package": "com.hupu.games",
+      "label": "虎扑",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1053900032,
+      "package": "org.zwanoo.android.speedtest",
+      "label": "Speedtest",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1048697214,
+      "package": "org.fungo.fungolive",
+      "label": "天天电视直播",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1046965711,
+      "package": "com.android.vending",
+      "label": "Play商店",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -1031558479,
+      "package": "com.xingin.xhs",
+      "label": "小红书",
+      "rules": 2,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": -1000214177,
+      "package": "com.autonavo.minimap",
+      "label": "高德地图",
+      "rules": 3,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": -973170826,
+      "package": "com.tencent.mm",
+      "label": "微信",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -945730221,
+      "package": "com.anjuke.android.app",
+      "label": "安居客",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -921040269,
+      "package": "com.facetech.konking",
+      "label": "轻音社",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -920735187,
+      "package": "com.qidian.QDReader",
+      "label": "起点读书",
+      "rules": 10,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -918490570,
+      "package": "com.sdu.didi.psnger",
+      "label": "滴滴出行",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -895263099,
+      "package": "com.technicalperson",
+      "label": "技术人",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -895188853,
+      "package": "com.duowan.kiwi",
+      "label": "虎牙直播",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -894368837,
+      "package": "com.xunlei.downloadprovider",
+      "label": "迅雷",
+      "rules": 13,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -874484145,
+      "package": "com.to8to.housekeeper",
+      "label": "土巴兔装修",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -862766679,
+      "package": "com.youdao.course",
+      "label": "有道精品课",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -833566134,
+      "package": null,
+      "label": null,
+      "rules": 1,
+      "sources": [
+        "AllRules.json"
+      ]
+    },
+    {
+      "hash": -822811590,
+      "package": "com.shenyuan.militarynews",
+      "label": "环球新军事",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -811421306,
+      "package": "com.daliao.live.show",
+      "label": "艾可直播",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -807718193,
+      "package": "com.zhaopin.social",
+      "label": "智联招聘",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -796004189,
+      "package": "com.baidu.searchbox",
+      "label": "百度",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -766051647,
+      "package": "com.mi.health",
+      "label": "小米运动健康",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -759128068,
+      "package": "com.shizhuang.duapp",
+      "label": "得物",
+      "rules": 8,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -747700391,
+      "package": "io.iftech.android.box",
+      "label": "小组件盒子",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -744842507,
+      "package": "com.snda.lantern.wifilocating",
+      "label": "WiFi万能钥匙极速版",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -733096426,
+      "package": "org.telegram.messenger.web",
+      "label": "Telegram",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -662871885,
+      "package": "com.henzanapp.miaomiaozhe",
+      "label": "喵喵折",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -660055062,
+      "package": "com.wuba",
+      "label": "58同城",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -629891177,
+      "package": "com.woapp.hebei",
+      "label": "联通智家",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -612834190,
+      "package": "com.miui.player",
+      "label": "MIUI 音乐",
+      "rules": 1,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": -558836051,
+      "package": "com.qinlin.edoor",
+      "label": "亲邻开门",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -557467920,
+      "package": "com.netease.uu",
+      "label": "UU加速器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -532693094,
+      "package": "bin.mt.plus",
+      "label": "MT管理器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -530247198,
+      "package": "com.damonplay.damonps2.free",
+      "label": "呆萌PS2模拟器",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -528715135,
+      "package": "com.felink.foregroundpaper",
+      "label": "全局透明壁纸",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -527086868,
+      "package": "com.jd.iots",
+      "label": "京东小家",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -524659007,
+      "package": "com.hose.ekuaibao",
+      "label": "易快报",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -524269385,
+      "package": "com.kugou.fanxing.lite",
+      "label": "繁星直播",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -506597855,
+      "package": "com.weaver.emobile7",
+      "label": "EMobile7",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -409980308,
+      "package": "com.koolearn.ieltspro2019",
+      "label": "新东方雅思Pro",
+      "rules": 2,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": -405478795,
+      "package": "com.btzx0313.app",
+      "label": "必拓资讯",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -396646979,
+      "package": "cn.missevan",
+      "label": "猫耳FM",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -379148275,
+      "package": "com.nero.swiftlink.mirror",
+      "label": "雨燕投屏",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -360330826,
+      "package": "com.youdao.lingshi.aicard",
+      "label": "有道领世",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -358087111,
+      "package": "com.eastmoney.android.berlin",
+      "label": "东方财富",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -357699061,
+      "package": "com.wandoujia.eyepetizer",
+      "label": "开眼",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -330301876,
+      "package": "com.rumtel.pandatv",
+      "label": "电视直播",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -328022007,
+      "package": "com.mylikefonts.activity",
+      "label": "字体美化大师",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -322418038,
+      "package": "cn.gov.pbc.dcep",
+      "label": "数字人民币",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -248012079,
+      "package": "com.jym.mall",
+      "label": "交易猫",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -245593387,
+      "package": "com.tencent.qqpimsecure",
+      "label": "腾讯手机管家",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -243402277,
+      "package": "com.ylzinfo.chinahrss",
+      "label": "掌上12333",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -198019159,
+      "package": "com.ifeimo.audiorecord",
+      "label": "录音大师",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -191341086,
+      "package": "com.tencent.qqlive",
+      "label": "腾讯视频",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -189732215,
+      "package": "com.duokan.phone.remotecontroller",
+      "label": "万能遥控",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -179660078,
+      "package": "cn.etouch.ecalendar",
+      "label": "中华万年历",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -173873869,
+      "package": "gov.pianzong.androidnga",
+      "label": "NGA玩家社区",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -156204975,
+      "package": "com.zuoyebang.airclass",
+      "label": "作业帮直播课",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -146860486,
+      "package": "com.iflytek.vflynote",
+      "label": "讯飞语记",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -133843480,
+      "package": "com.estrongs.android.pop",
+      "label": "ES文件浏览器",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -103532384,
+      "package": "com.tencent.edu",
+      "label": "腾讯课堂",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -103524794,
+      "package": "com.tencent.map",
+      "label": "腾讯地图",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -103524201,
+      "package": "com.tencent.mtt",
+      "label": "QQ浏览器",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -103523392,
+      "package": "com.tencent.now",
+      "label": "腾讯NOW直播",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -91332804,
+      "package": "com.daqo.wallpaper",
+      "label": "动漫壁纸大全",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -84768776,
+      "package": "com.baidu.browser.apps",
+      "label": "百度浏览器",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -76821059,
+      "package": "com.hipu.yidian",
+      "label": "一点资讯",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -69877540,
+      "package": "com.xunmeng.pinduoduo",
+      "label": "拼多多",
+      "rules": 7,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -54547863,
+      "package": "com.lolaage.tbulu.tools",
+      "label": "两步路户外助手",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -54120092,
+      "package": "cn.ccspeed",
+      "label": "CC加速器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -34617839,
+      "package": "com.whty.wicity.china",
+      "label": "和生活",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -30728625,
+      "package": "com.tencent.weishi",
+      "label": "微视",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -30315083,
+      "package": "com.tencent.wework",
+      "label": "企业微信",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": -7542465,
+      "package": "com.cubic.autohome",
+      "label": "汽车之家",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 5992780,
+      "package": "com.rarlab.rar",
+      "label": "RAR",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 28505069,
+      "package": "com.zhanlang.dailyscreen",
+      "label": "录屏屏幕录制",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 93910113,
+      "package": "cn.jingzhuan.stock",
+      "label": "经传多赢股票",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 101952197,
+      "package": "com.hundsun.winner.pazq",
+      "label": "平安证券",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 114295028,
+      "package": "com.jmgo.funcontrol",
+      "label": "坚果控",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 125486076,
+      "package": "cn.com.ruijie.magicbox",
+      "label": "无线魔盒",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 132785423,
+      "package": "android.zhibo8",
+      "label": "直播吧",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 157540905,
+      "package": "com.cfitcxwl.kdyutbu",
+      "label": "囧次元",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 167193980,
+      "package": "com.fanli.android.apps",
+      "label": "返利",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 188162078,
+      "package": "com.doulan.juxinding",
+      "label": "抖蓝直播",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 195210534,
+      "package": "com.ss.android.article.lite",
+      "label": "今日头条极速版",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 195266379,
+      "package": "com.ss.android.article.news",
+      "label": "今日头条",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 199342455,
+      "package": "net.csdn.csdnplus",
+      "label": "CSDN",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 201325446,
+      "package": "com.hunantv.imgo.activity",
+      "label": "芒果TV",
+      "rules": 7,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 229330387,
+      "package": "com.sup.android.superb",
+      "label": "皮皮虾",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 232580377,
+      "package": "cn.xiaochuankeji.zuiyouLite",
+      "label": "皮皮搞笑",
+      "rules": 9,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 238075641,
+      "package": "com.kugou.android.ringtone",
+      "label": "酷狗铃声",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 239830085,
+      "package": "com.kugou.fanxing",
+      "label": "酷狗直播",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 255610818,
+      "package": "com.sdjuliang.yuanqijob",
+      "label": "元气兼职",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 265439280,
+      "package": "com.tencent.easyearn",
+      "label": "企鹅汇图",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 270344886,
+      "package": "com.shanbay.news",
+      "label": "扇贝阅读",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 270694045,
+      "package": "com.UCMobile",
+      "label": "UC浏览器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 293886959,
+      "package": "com.jd.jdlite",
+      "label": "京喜特价",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 300761806,
+      "package": "com.GFriends.app",
+      "label": "呱友",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 313184810,
+      "package": "com.ss.android.ugc.aweme",
+      "label": "抖音",
+      "rules": 8,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 320552729,
+      "package": "com.mysteel.banksteeltwo",
+      "label": "钢银助手",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 321803898,
+      "package": "com.sohu.sohuvideo",
+      "label": "搜狐视频",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 325847140,
+      "package": "com.baidu.baike",
+      "label": "百度百科",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 332614644,
+      "package": "com.baidu.iknow",
+      "label": "百度知道",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 342704719,
+      "package": "com.baidu.tieba",
+      "label": "百度贴吧",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 345365066,
+      "package": "com.baidu.wenku",
+      "label": "百度文库",
+      "rules": 7,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 354525348,
+      "package": "com.youqi.fjjf",
+      "label": "饭橘",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 361910168,
+      "package": "com.tencent.mobileqq",
+      "label": "QQ",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 378881071,
+      "package": "com.ss.android.auto",
+      "label": "懂车帝",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 460049591,
+      "package": "com.kugou.android",
+      "label": "酷狗音乐",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 473713875,
+      "package": "com.kuaishou.nebula",
+      "label": "快手极速版",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 495814814,
+      "package": "com.gotokeep.keep",
+      "label": "Keep",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 497239884,
+      "package": "com.netease.lotterynews",
+      "label": "网易红彩",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 502255059,
+      "package": "com.yy.yomi",
+      "label": "Yo语音",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 515982662,
+      "package": "com.unionpay",
+      "label": "云闪付",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 543597367,
+      "package": "com.zhiliaoapp.musically",
+      "label": "TikTok",
+      "rules": 9,
+      "sources": [
+        "template"
+      ]
+    },
+    {
+      "hash": 555434215,
+      "package": "com.ganji.android",
+      "label": "赶集直招",
+      "rules": 9,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 559984781,
+      "package": "com.snda.wifilocating",
+      "label": "WiFi万能钥匙",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 560468770,
+      "package": "com.xiaomi.market",
+      "label": "小米应用商店",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 588474247,
+      "package": "com.sankuai.movie",
+      "label": "猫眼",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 616434203,
+      "package": "com.kwai.videoeditor",
+      "label": "快影",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 630814885,
+      "package": "com.finace.market",
+      "label": "有道财富",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 641733616,
+      "package": "cn.neoclub.uki",
+      "label": "Uki",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 644871869,
+      "package": "com.alibaba.wireless",
+      "label": "阿里巴巴",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 648308836,
+      "package": "com.lphtsccft",
+      "label": "涨乐财富通",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 650999717,
+      "package": "com.google.android.documentsui",
+      "label": "文件",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 651433099,
+      "package": "com.baidu.xin.aiqicha",
+      "label": "爱企查",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 652719697,
+      "package": "com.zsyj.trans",
+      "label": "全局透明壁纸",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 662377423,
+      "package": "com.netease.snailread",
+      "label": "网易蜗牛读书",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 706813998,
+      "package": "com.ximalaya.ting.android",
+      "label": "喜马拉雅",
+      "rules": 12,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 725735704,
+      "package": "com.bestv.app",
+      "label": "百视TV",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 744792033,
+      "package": "com.baidu.BaiduMap",
+      "label": "百度地图",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 752555548,
+      "package": "com.zhihu.android",
+      "label": "知乎",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 810513273,
+      "package": "com.meitu.meipaimv",
+      "label": "美拍",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 818881643,
+      "package": "huo.niao.ansijhe",
+      "label": "火焰视频",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 841170930,
+      "package": "com.jd.jrapp",
+      "label": "京东金融",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 847156324,
+      "package": "com.coolapk.market",
+      "label": "酷安",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 863298512,
+      "package": "cn.cntv",
+      "label": "央视影音",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 876496474,
+      "package": "com.qiyi.video.lite",
+      "label": "爱奇艺极速版",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 884834226,
+      "package": "com.excean.na",
+      "label": "99手游加速器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 886316827,
+      "package": "cn.wps.yun",
+      "label": "金山文档",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 891862624,
+      "package": "cn.quicktv.androidpro",
+      "label": "影视大全WTV",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 914144235,
+      "package": "com.kugou.android.ktvapp",
+      "label": "酷狗唱唱",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 947418797,
+      "package": "com.xiaomi.gamecenter",
+      "label": "MIUI 游戏中心",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 949069732,
+      "package": "com.dragon.read",
+      "label": "番茄免费小说",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 953551389,
+      "package": "com.cxzapp.yidianling",
+      "label": "壹点灵",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 960022320,
+      "package": "com.boc.bocgmsma",
+      "label": "对接会助手",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 978047406,
+      "package": "com.Qunar",
+      "label": "去哪儿旅行",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 991394745,
+      "package": "com.tongcheng.android",
+      "label": "同程旅行",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 991562021,
+      "package": "com.kugou.android.child",
+      "label": "酷狗儿歌",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 992705457,
+      "package": "com.kugou.android.douge",
+      "label": "酷狗唱唱斗歌版",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1000776385,
+      "package": "com.jin10",
+      "label": "金十数据",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1013943789,
+      "package": "com.xs.fm",
+      "label": "番茄畅听",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1014178734,
+      "package": "com.xyhui",
+      "label": "PU口袋校园",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1032792361,
+      "package": "cn.lingwoyun.cpc",
+      "label": "领沃云电脑",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1047154881,
+      "package": "com.pupumall.customer",
+      "label": "朴朴超市",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1056984291,
+      "package": "com.xueqiu.android",
+      "label": "雪球",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1062801388,
+      "package": "com.fq.wallpaper",
+      "label": "飞火动态壁纸",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1073158053,
+      "package": "com.cainiao.wireless",
+      "label": "菜鸟裹裹",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1076661718,
+      "package": "com.ecitic.bank.mobile",
+      "label": "中信银行",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1085732649,
+      "package": "com.tencent.news",
+      "label": "腾讯新闻",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1091754941,
+      "package": "com.dailyyoga.cn",
+      "label": "每日瑜伽",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1143986695,
+      "package": "com.netease.mail",
+      "label": "网易邮箱大师",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1144086404,
+      "package": "com.netease.play",
+      "label": "LOOK直播",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1174097286,
+      "package": "com.jingdong.app.mall",
+      "label": "京东",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1175536078,
+      "package": "com.tencent.karaoke",
+      "label": "全民K歌",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1185278458,
+      "package": "com.cmcc.cmvideo",
+      "label": "咪咕视频",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1197124177,
+      "package": "com.tmall.wireless",
+      "label": "手机天猫",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1219698816,
+      "package": "com.sixrpg.opalyer",
+      "label": "橙光阅读器",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1238325805,
+      "package": "com.taptap",
+      "label": "TapTap",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1254578009,
+      "package": null,
+      "label": null,
+      "rules": 3,
+      "sources": [
+        "AllRules.json"
+      ]
+    },
+    {
+      "hash": 1268902986,
+      "package": "org.ajmd",
+      "label": "阿基米德",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1272214412,
+      "package": "cn.wywk.app",
+      "label": "网鱼",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1276497535,
+      "package": "com.taobao.idlefish",
+      "label": "闲鱼",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1305029671,
+      "package": "com.mimikko.mimikkoui",
+      "label": "兽耳助手",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1309104121,
+      "package": "com.baidu.searchbox.tomas",
+      "label": "百度大字版",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1310504938,
+      "package": "ctrip.android.view",
+      "label": "携程旅行",
+      "rules": 9,
+      "sources": [
+        "template"
+      ]
+    },
+    {
+      "hash": 1314748790,
+      "package": "com.cmri.universalapp",
+      "label": "和家亲",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1319538838,
+      "package": "com.sohu.newsclient",
+      "label": "搜狐新闻",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1320152448,
+      "package": "im.com.miui.huanji",
+      "label": "小米换机",
+      "rules": 1,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": 1335515207,
+      "package": "com.alibaba.android.rimet",
+      "label": "钉钉",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1337821420,
+      "package": "com.booking",
+      "label": "Booking.com缤客",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1358411530,
+      "package": "com.tencent.podoteng",
+      "label": "PODO漫画",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1366626055,
+      "package": "com.kmxs.reader",
+      "label": "七猫免费小说",
+      "rules": 8,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1380298910,
+      "package": "com.tencent.wemeet.app",
+      "label": "腾讯会议",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1386065562,
+      "package": "com.xiaohu.olevodmobile",
+      "label": "欧乐影院",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1388849156,
+      "package": "com.yipiao",
+      "label": "智行火车票12306抢票",
+      "rules": 5,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1391684449,
+      "package": "com.cloudcomputer.cloudnetworkcafe",
+      "label": "电讯云网咖",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1429484426,
+      "package": "cn.kuwo.player",
+      "label": "酷我音乐",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1488133239,
+      "package": "com.moji.mjweather",
+      "label": "墨迹天气",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1511151769,
+      "package": "com.tianyancha.skyeye",
+      "label": "天眼查",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1511326008,
+      "package": "com.baidu.baijia",
+      "label": "百家号",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1516206044,
+      "package": "com.cmcc.hebao",
+      "label": "和包",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1519628819,
+      "package": "com.doupin.show",
+      "label": "来电秀",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1536737232,
+      "package": "com.sina.weibo",
+      "label": "微博",
+      "rules": 15,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1539906291,
+      "package": "sshky.wjglq.rena",
+      "label": "jmcomic",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1546297161,
+      "package": "com.sinyee.babybus.recommendapp",
+      "label": "宝宝巴士",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1557402977,
+      "package": "com.njgdmm.zjy",
+      "label": "最江阴",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1575109845,
+      "package": "com.ganji.android.haoche_c",
+      "label": "瓜子二手车",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1589164968,
+      "package": "com.tymxa.gqshfhs",
+      "label": "高情商回复话术",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1590102142,
+      "package": "com.sina.weibolite",
+      "label": "微博极速版",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1596265335,
+      "package": "bubei.tingshu",
+      "label": "懒人听书",
+      "rules": 7,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1600359417,
+      "package": "com.baidu.ybb",
+      "label": "游帮帮加速器",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1620159901,
+      "package": "com.lianjia.beike",
+      "label": "贝壳找房",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1620268914,
+      "package": "com.magicalstory.cleaner",
+      "label": "安卓清理君",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1644138715,
+      "package": "com.kugou.android.tingshu",
+      "label": "酷狗听书",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1651531703,
+      "package": "com.telecom.video",
+      "label": "天翼超高清",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1657185137,
+      "package": "com.One.WoodenLetter",
+      "label": "一个木函",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1659293491,
+      "package": "com.smile.gifmaker",
+      "label": "快手",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1659335438,
+      "package": "com.intsig.camscanner",
+      "label": "扫描全能王",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1661249612,
+      "package": "cn.soulapp.android",
+      "label": "Soul",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1662102643,
+      "package": "com.guwendao.gwd",
+      "label": "古文岛",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1667762191,
+      "package": "com.xs.fm.lite",
+      "label": "番茄畅听音乐版",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1683280386,
+      "package": "com.baidu.haokan",
+      "label": "好看视频",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1695025949,
+      "package": "com.sing.client",
+      "label": "5sing原创音乐",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1744979357,
+      "package": "com.ximi.weightrecord",
+      "label": "体重小本",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1751022005,
+      "package": "com.lmiot.autotool",
+      "label": "免ROOT自动化助手",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1765779203,
+      "package": "com.ss.android.article.video",
+      "label": "西瓜视频",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1773314214,
+      "package": "com.yitong.mbank.psbc",
+      "label": "邮储银行",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1788138577,
+      "package": "com.job.android",
+      "label": "前程无忧51Job",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1791072826,
+      "package": "com.baidu.netdisk",
+      "label": "百度网盘",
+      "rules": 9,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1799462192,
+      "package": "com.android.thememanager",
+      "label": "MIUI 主题壁纸",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1827421494,
+      "package": "net.unitepower.zhitong",
+      "label": "智通人才网",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1836227312,
+      "package": "com.apowersoft.letsview",
+      "label": "幕连",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1855462465,
+      "package": "com.taobao.taobao",
+      "label": "淘宝",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1868020298,
+      "package": "com.chinamobile.mcloud",
+      "label": "中国移动云盘",
+      "rules": 7,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1875899872,
+      "package": "com.sgcc.wsgw.cn",
+      "label": "网上国网",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1877659010,
+      "package": null,
+      "label": null,
+      "rules": 0,
+      "sources": [
+        "AllRules.json"
+      ]
+    },
+    {
+      "hash": 1884443122,
+      "package": "com.lbe.security.miui",
+      "label": "MIUI 权限管理服务",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1889695195,
+      "package": "com.baidu.searchbox.senior",
+      "label": "百度关怀版",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1890818956,
+      "package": "com.baidu.doctor.doctoranswer",
+      "label": "百度健康医生版",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1893781697,
+      "package": "com.cmbchina.ccd.pluto.cmbActivity",
+      "label": "掌上生活",
+      "rules": 6,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1907791813,
+      "package": "com.qq.qcloud",
+      "label": "腾讯微云",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1937929252,
+      "package": "com.qq.reader",
+      "label": "QQ阅读",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1966418623,
+      "package": "com.xiaomi.hm.health",
+      "label": "Zeep Life",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1970409442,
+      "package": "com.yangcong345.android.phone",
+      "label": "洋葱学园-原洋葱数学",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1979515232,
+      "package": "com.netease.cloudmusic",
+      "label": "网易云音乐",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1983218619,
+      "package": "com.ct.client",
+      "label": "中国电信",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1984799751,
+      "package": "com.xunruifairy.wallpaper",
+      "label": "壁纸精灵",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 1994036591,
+      "package": "tv.danmaku.bili",
+      "label": "哔哩哔哩",
+      "rules": 1,
+      "sources": [
+        "readme"
+      ]
+    },
+    {
+      "hash": 2009078134,
+      "package": "com.lijianqiang12.silent",
+      "label": "远离手机",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2016444138,
+      "package": "com.cssq.pandaplayet",
+      "label": "熊猫短剧",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2029054607,
+      "package": "com.qisi.wallpaper",
+      "label": "壁纸主题大全",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2037736697,
+      "package": "com.f1player",
+      "label": "51虚拟机",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2046232717,
+      "package": "com.ifeng.news",
+      "label": "凤凰新闻",
+      "rules": 9,
+      "sources": [
+        "template"
+      ]
+    },
+    {
+      "hash": 2049668591,
+      "package": "com.eg.android.AlipayGphone",
+      "label": "支付宝",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2053958218,
+      "package": "com.caing.news",
+      "label": "财新",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2056863498,
+      "package": "com.lu.ashionweather",
+      "label": "天气预报",
+      "rules": 4,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2078928257,
+      "package": "cn.gogpay.dcb",
+      "label": "多彩宝",
+      "rules": 2,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2091464343,
+      "package": "com.greenpoint.android.mc10086.activity",
+      "label": "中国移动",
+      "rules": 7,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2092879561,
+      "package": "com.vipkid.app",
+      "label": "VIPKID英语",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2123438483,
+      "package": "com.achievo.vipshop",
+      "label": "唯品会",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2128193854,
+      "package": "com.kugou.dj",
+      "label": "酷狗DJ",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2130042610,
+      "package": "com.kwai.thanos",
+      "label": "快手概念版",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2138010815,
+      "package": "com.taobao.live",
+      "label": "点淘",
+      "rules": 3,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    },
+    {
+      "hash": 2138257400,
+      "package": "com.taobao.trip",
+      "label": "飞猪旅行",
+      "rules": 1,
+      "sources": [
+        "AllRules.json",
+        "readme"
+      ]
+    }
+  ]
+}

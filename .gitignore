@@ -1,0 +1,17 @@
+# 构建产物与本地环境
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+.kotlin/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+
+# 日志与临时文件
+*.log
+*.tmp
+__pycache__/

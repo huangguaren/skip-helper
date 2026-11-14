@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  typeAllMask：开屏广告的"跳过"按钮大多在 TYPE_WINDOW_STATE_CHANGED 之后渲染，
+              只看窗口变化会漏；全事件 + 节流更稳。
+  flagRetrieveInteractiveWindows：悬浮窗形式的广告不在 activeWindow 里，必须能枚举窗口。
+  canPerformGestures：目标不可点击时用 tap 兜底。
+-->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/accessibility_service_description"
+    android:accessibilityEventTypes="typeAllMask"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:notificationTimeout="100"
+    android:accessibilityFlags="flagDefault|flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="true"
+    android:settingsActivity="com.example.skiphelper.MainActivity" />

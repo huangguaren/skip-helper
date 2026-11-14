@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">跳过助手</string>
+    <string name="service_label">跳过助手（广告自动跳过）</string>
+    <string name="accessibility_service_description">读取当前界面的文字，识别"跳过/关闭"按钮并点击，用于跳过开屏广告。不收集、不上传任何内容。</string>
+</resources>
